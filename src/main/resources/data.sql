@@ -1,0 +1,15 @@
+INSERT INTO category (description) VALUES ('American');
+INSERT INTO category (description) VALUES ('Chinese');
+INSERT INTO category (description) VALUES ('Japanese');
+INSERT INTO category (description) VALUES ('Thai');
+INSERT INTO category (description) VALUES ('Italian');
+INSERT INTO category (description) VALUES ('French');
+INSERT INTO unit_of_measure (description) VALUES ('cuillères à café');
+INSERT INTO unit_of_measure (description) VALUES ('cuillères à soupe');
+INSERT INTO unit_of_measure (description) VALUES ('centilitres');
+INSERT INTO unit_of_measure (description) VALUES ('grammes');
+INSERT INTO unit_of_measure (description) VALUES ('pincées');
+INSERT INTO unit_of_measure (description) VALUES ('sachets');
+INSERT INTO unit_of_measure (description) VALUES ('feuilles');
+INSERT INTO unit_of_measure (description) VALUES ('branches');
+INSERT INTO unit_of_measure (description) VALUES ('cubes');
